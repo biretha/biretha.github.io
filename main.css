@@ -1,25 +1,29 @@
-p{
-    background-color: aqua;
-    
-    background-color: ;
-    
-}
-h1{
-    background-color:chartreuse;
-}
-h2{
-    background-color: aqua;
-}
 body {
-    background-color: black;
+    background-image: url(images/unturned_face.png)
+}
+
+h1{
+    color: yellow;
+}
+p{
+    color: yellow;
 }
 p2{
-    background-color: chartreuse;
+    color: yellow;
 }
 p3{
-    background-color: chartreuse;
+    color: yellow;
 }
-h5{
-    background-color: chartreuse;
+
+p6{
+    color: yellow;
 }
+p7{
+     color: yellow;    
     
+}
+p4{
+    
+    color: yellow;
+}    
+<metal name-"viewport" content-"width-device-width, initial-scale-1.0">
